@@ -4,6 +4,9 @@
 > My own azure resume, following the instruction provided by [ACG project video](https://www.youtube.com/watch?v=ieYrBWmkfno). </br>
 > Starter code can be found at [ACloudGuru-Resource](https://github.com/ACloudGuru-Resources/acg-project-azure-resume-starter/tree/main)
 
+[![deploy_frontend](https://github.com/DFwJZ/azure-resume/actions/workflows/frontend.main.yml/badge.svg)](https://github.com/DFwJZ/azure-resume/actions/workflows/frontend.main.yml)
+
+[![deploy_backend](https://github.com/DFwJZ/azure-resume/actions/workflows/backend.main.yml/badge.svg)](https://github.com/DFwJZ/azure-resume/actions/workflows/frontend.main.yml)
 
 ## Step 1
 * Creating frontend static website.
