@@ -16,3 +16,11 @@
     1. Setting up Cosmos DB
     2. Setting up Azure function
     3. Testing locally
+
+## Step 3 
+* Deploy on Azure
+
+## Step 4 
+* CI/CD
+
+> See Detailed implementation in separate README files within each folder.
